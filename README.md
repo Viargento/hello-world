@@ -1,2 +1,8 @@
 # hello-world
-My first repository
+This is my repository!
+----------------------
+
+Hello!
+
+My name is Viargento, nice to meet ya!
+I want to be a proffesional developer.
